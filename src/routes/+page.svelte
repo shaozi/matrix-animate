@@ -108,7 +108,7 @@
 		</Button>
 	</div>
 </div>
-<div id="dataframe" />
+<div id="dataframe" class="w-full p-3 overflow-auto"/>
 
 <style>
 	@tailwind base;
